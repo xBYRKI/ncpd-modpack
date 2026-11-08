@@ -133,6 +133,13 @@
       "side": "server"
     },
     {
+      "file": "myclansystem-client-1.0.0.jar",
+      "sha1": "686dc2ef9a439956ab7df556a37de492725e904d",
+      "size": 61256,
+      "url": "https://raw.githubusercontent.com/xBYRKI/ncpd-modpack/main/files/myclansystem-client-1.0.0.jar",
+      "side": "client"
+    },
+    {
       "file": "mylog-1.0.0.jar",
       "sha1": "6b16bd51e1e116eb4c012af81ce7c9190c1060d9",
       "size": 14515194,
