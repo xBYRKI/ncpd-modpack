@@ -123,14 +123,6 @@
       "title": "MezzConfig"
     },
     {
-      "file": "modmenu-20.0.3.jar",
-      "sha1": "9fc381627b471c18d67156e846228f51ff2ea5b4",
-      "size": 616919,
-      "url": "https://cdn.modrinth.com/data/mOgUt4GM/versions/iRo7AZXf/modmenu-20.0.3.jar",
-      "side": "client",
-      "title": "Mod Menu"
-    },
-    {
       "file": "myclansystem-1.2.0.jar",
       "sha1": "99d28370c79d8787d7c94e19b19ae618cd1449b8",
       "size": 660007,
