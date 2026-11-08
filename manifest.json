@@ -4,6 +4,11 @@
   "loader": "fabric",
   "loader_version": "0.20.1",
   "server": "minecraft.byrki.dev",
+  "server_aliases": [
+    "gaming.byrki.dev",
+    "gaming.stephanides-it.at",
+    "ncpdmc.llukdreams.de"
+  ],
   "mods": [
     {
       "file": "armor-stand-editor-2.14.0+26.3-rc-1.jar",
